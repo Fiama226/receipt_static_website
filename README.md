@@ -1,0 +1,1 @@
+# receipt_static_website
